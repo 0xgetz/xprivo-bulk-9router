@@ -1,0 +1,19 @@
+{
+  "name": "xprivo-bulk-9router",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Bulk-create anonymous xPrivo sessions and pool them into 9Router as an OpenAI-compatible provider.",
+  "main": "src/cli.js",
+  "bin": { "xprivo-bulk": "src/cli.js" },
+  "scripts": {
+    "create": "node src/cli.js create",
+    "list": "node src/cli.js list",
+    "test": "node src/cli.js test",
+    "serve": "node src/cli.js serve",
+    "connect": "node src/cli.js connect",
+    "models": "node src/cli.js models"
+  },
+  "engines": { "node": ">=18" },
+  "license": "MIT",
+  "keywords": ["xprivo", "9router", "openai-compatible", "anonymous-ai", "bulk", "browser-automation", "cdp"]
+}

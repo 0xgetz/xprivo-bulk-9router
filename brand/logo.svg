@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 160" width="640" height="160" role="img" aria-label="xPrivo Bulk 9Router">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#6366f1"/>
+      <stop offset="1" stop-color="#0ea5e9"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="160" rx="24" fill="#0b1020"/>
+  <g transform="translate(36,34)">
+    <rect width="92" height="92" rx="22" fill="url(#g)"/>
+    <path d="M26 26 L46 46 M66 66 L46 46 M66 26 L46 46 M26 66 L46 46" stroke="#fff" stroke-width="9" stroke-linecap="round"/>
+    <circle cx="46" cy="46" r="7" fill="#fff"/>
+  </g>
+  <text x="158" y="72" font-family="Inter,Segoe UI,Helvetica,Arial,sans-serif" font-size="40" font-weight="700" fill="#f8fafc">xPrivo<tspan fill="#7dd3fc"> Bulk</tspan></text>
+  <text x="160" y="106" font-family="Inter,Segoe UI,Helvetica,Arial,sans-serif" font-size="21" font-weight="500" fill="#94a3b8">Anonymous session pool &#8594; 9Router</text>
+</svg>

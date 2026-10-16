@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128" role="img" aria-label="xPrivo Bulk icon">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#6366f1"/>
+      <stop offset="1" stop-color="#0ea5e9"/>
+    </linearGradient>
+  </defs>
+  <rect width="128" height="128" rx="30" fill="#0b1020"/>
+  <rect x="22" y="22" width="84" height="84" rx="20" fill="url(#g)"/>
+  <path d="M44 44 L64 64 M84 84 L64 64 M84 44 L64 64 M44 84 L64 64" stroke="#fff" stroke-width="9" stroke-linecap="round"/>
+  <circle cx="64" cy="64" r="7" fill="#fff"/>
+</svg>
